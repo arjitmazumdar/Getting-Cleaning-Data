@@ -3,7 +3,7 @@
 ### Assignment : Analysis of Human Activity Recognition using Smartphones Dataset Version 1.0
 
 ### Objective: The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
-#The goal is to prepare tidy data that can be used for later analysis
+      The goal is to prepare tidy data that can be used for later analysis
 
 ### Expectations : One R script called run_analysis.R that does the following. 
       1. Merges the training and the test sets to create one data set.
@@ -23,8 +23,7 @@
 
 ### Part 2 deals with extracting only the measurements on the mean and standard deviation for each measurement
       Part -2 , section 1: Converting the factor variables to characters as we need to use gsub and grep functions which can be only applied to charecters fields
-      Part -2 , Section 2: Extracting mean and standard dev data using 'grep' & gsub
-function
+      Part -2 , Section 2: Extracting mean and standard dev data using 'grep' & gsub function
 
 ### Part 3: Deals with preparing the Datasets with relevant information i.e mean & standard dev
 
